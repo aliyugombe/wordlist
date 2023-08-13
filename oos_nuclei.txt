@@ -1,0 +1,1 @@
+http-missing-security-headers,nameserver-fingerprint,deprecated-tls,weak-cipher-suites,tls-version,missing-csp

@@ -1,0 +1,8 @@
+.png
+.jpg
+.gif
+.avif
+.css
+.woff
+.woff2
+jquery

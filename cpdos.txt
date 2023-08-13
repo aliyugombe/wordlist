@@ -1,0 +1,23 @@
+X-HTTP-Method-Override: DELETE
+X-HTTP-Method: DELETE
+X-Method-Override
+X-Metachar-Header: \n
+X-Metachar-Header: \r
+X-Metachar-Header: \a
+\:
+:\
+X-Amz-Server-Side-Encryption: any_random_value
+x-forwarded-scheme: nohttps
+Transfer-Encoding
+X-Forwarded-Port: 123
+X-Forwarded-SSL
+Transfer-Encoding: asdfs
+Accept_Encoding: br
+Range: bytes=cow
+Accept
+Upgrade
+Origin
+Max-Forwards
+X-CF-APP-INSTANCE: xxx:1
+Transfer-Encoding: chunked
+X-Forwarded-Host: XXX

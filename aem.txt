@@ -273,7 +273,6 @@
 /crx/repository/test
 /crx/repository/test.sh
 /damadmin
-/damadmin#/content/dam
 /dav/crx.default
 /etc
 /etc.1.json
